@@ -1,0 +1,18 @@
+h1{
+    text-transform: uppercase;
+}
+.carousel-height{
+    height: 450px;
+    overflow: hidden;
+}
+.fas.fa-star{
+    /* color: rgb(207, 207, 0); */
+    font-size: 1rem;
+}
+.list-group-flush{
+    width: 30%;
+}
+
+.rouge{    color: #FF0000;}
+.vert-clair{    color: #00FF00;}
+.vert-fonce{    color: #008800;}

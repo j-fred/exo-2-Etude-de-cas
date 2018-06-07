@@ -1,0 +1,23 @@
+{
+  "name": "exo-2-etude-de-cas",
+  "version": "1.0.0",
+  "description": "exo-2",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-fred/exo-2-Etude-de-cas.git"
+  },
+  "author": "j-fred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-fred/exo-2-Etude-de-cas/issues"
+  },
+  "homepage": "https://github.com/j-fred/exo-2-Etude-de-cas#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}

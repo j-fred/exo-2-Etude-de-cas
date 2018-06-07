@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Javascript",
+        "level": 2,
+        "category": "Développement"
+    },
+    {
+        "name":"HTML",
+        "level": 6,
+        "category": "Développement"
+    },
+    {
+        "name":"CSS",
+        "level": 6,
+        "category": "Développement"
+    },
+    {
+        "name":"NodeJS",
+        "level": 3,
+        "category": "Développement"
+    },
+    {
+        "name":"PHP",
+        "level": 1,
+        "category": "Développement"
+    },
+    {
+        "name":"Paint",
+        "level": 3,
+        "category": "Web design"
+    },
+    {
+        "name":"Photoshop",
+        "level": 5,
+        "category": "Web design"
+    },
+    {
+        "name":"Illustrator",
+        "level": 4,
+        "category": "Web design"
+    },
+    {
+        "name":"Paint",
+        "level": 2,
+        "category": "Web design"
+    },
+    {
+        "name":"SQL",
+        "level": 3,
+        "category": "Développement"
+    }
+]
